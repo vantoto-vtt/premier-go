@@ -1,0 +1,1 @@
+{"name":"Météo RDC — Destination et prévisions","short_name":"Météo RDC","description":"Météo locale et prévisions météo des destinations avant un déplacement","start_url":"./","scope":"./","display":"standalone","background_color":"#091424","theme_color":"#091424","icons":[{"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}],"lang":"fr"}
